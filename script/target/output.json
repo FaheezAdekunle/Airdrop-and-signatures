@@ -1,0 +1,50 @@
+[
+    {
+        "inputs": [
+            "0x6CA6d1e2D5347Bfab1d91e883F1915560e09129D",
+            "25000000000000000000"
+        ],
+        "proof": [
+            "0x0fd7c981d39bece61f7499702bf59b3114a90e66b51ba2c53abdf7b62986c00a",
+            "0x27f72f30e166838d6be0187279a4f776fed1edda9bd4d6a864f4660ad845edea"
+        ],
+        "root": "0xb95b729a5a85a7bf9a995729bdbeebd58f34ab602929c5f6459801ad909bf217",
+        "leaf": "0xd1445c931158119b00449ffcac3c947d028c0c359c34a6646d95962b3b55c6ad"
+    },
+    {
+        "inputs": [
+            "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+            "25000000000000000000"
+        ],
+        "proof": [
+            "0xd1445c931158119b00449ffcac3c947d028c0c359c34a6646d95962b3b55c6ad",
+            "0x27f72f30e166838d6be0187279a4f776fed1edda9bd4d6a864f4660ad845edea"
+        ],
+        "root": "0xb95b729a5a85a7bf9a995729bdbeebd58f34ab602929c5f6459801ad909bf217",
+        "leaf": "0x0fd7c981d39bece61f7499702bf59b3114a90e66b51ba2c53abdf7b62986c00a"
+    },
+    {
+        "inputs": [
+            "0xb7Ec73011D6Ac41Ec33eeAd9C362445095726249",
+            "25000000000000000000"
+        ],
+        "proof": [
+            "0x4fd31fee0e75780cd67704fbc43caee70fddcaa43631e2e1bc9fb233fada2394",
+            "0x81f0e530b56872b6fc3e10f8873804230663f8407e21cef901b8aeb06a25e5e2"
+        ],
+        "root": "0xb95b729a5a85a7bf9a995729bdbeebd58f34ab602929c5f6459801ad909bf217",
+        "leaf": "0x96ef5265785037a18e1004b16b2c5ae0ac3c05dd2882fb6918bfe01045ffcbfb"
+    },
+    {
+        "inputs": [
+            "0xf6dBa02C01AF48Cf926579F77C9f874Ca640D91D",
+            "25000000000000000000"
+        ],
+        "proof": [
+            "0x96ef5265785037a18e1004b16b2c5ae0ac3c05dd2882fb6918bfe01045ffcbfb",
+            "0x81f0e530b56872b6fc3e10f8873804230663f8407e21cef901b8aeb06a25e5e2"
+        ],
+        "root": "0xb95b729a5a85a7bf9a995729bdbeebd58f34ab602929c5f6459801ad909bf217",
+        "leaf": "0x4fd31fee0e75780cd67704fbc43caee70fddcaa43631e2e1bc9fb233fada2394"
+    }
+]
