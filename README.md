@@ -1,6 +1,5 @@
 # Merkle Airdrop & Signatures
-
-This is a practice section of the [Cyfrin Updraft Advanced Foundry Course](https://updraft.cyfrin.io/). In this repo, i covered signatures, merkle drops, and more. 
+In this repo, i covered signatures, merkle drops, and more. 
 
 - [Merkle Airdrop \& Signatures](#merkle-airdrop--signatures)
 - [Getting Started](#getting-started)
